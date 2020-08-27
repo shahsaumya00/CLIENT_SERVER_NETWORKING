@@ -1,4 +1,4 @@
-# CLIENT_SERVER_NETWORKING
+# Client-Server-Networking
 
 File sharing protocol is implemented between a client and a server using File Transfer Protocol (FTP) which uses TCP/IP protocol to communicate between ports.
 
